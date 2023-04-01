@@ -1,0 +1,19 @@
+{
+  "name": "celestiatelegramtoolbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
