@@ -11,8 +11,8 @@ To run this application, you will need:
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/telegram-node-bot`
-2. Navigate to the project directory: `cd telegram-node-bot`
+1. Clone this repository: `git clone https://github.com/silinh66/CelestiaNodeTrackingBot`
+2. Navigate to the project directory: `cd CelestiaNodeTrackingBot`
 3. Install the dependencies: `npm install`
 4. Rename `.env.example` to `.env` and set the value of `TELEGRAM_BOT_TOKEN` to your Telegram bot token.
 5. Start the application: `npm start`
